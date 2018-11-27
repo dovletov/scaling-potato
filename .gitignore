@@ -1,6 +1,7 @@
 # exclude everything
 faces/*
 */__pycache__/*
+*.zip
 
 # exception to the rule
 !*.gitkeep
